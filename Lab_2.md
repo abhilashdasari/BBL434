@@ -1,5 +1,5 @@
 # Lab session 2
-## This lab is mainly focussed on Regular expression
+## This lab is mainly focussed on Regular expression and MEME
 
 It is important to learn basic BASH (mainly usage of `grep`, `awk`, `sed` ) for efficient use of Regular expression
 
