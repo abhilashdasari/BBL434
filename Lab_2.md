@@ -23,10 +23,20 @@ Now we will apply the knowledge gained in Life science
 
 ### task 3 : Understanding the importance of grep with regex using bioinformatics examples [link](https://bioinformaticsworkbook.org/Appendix/Unix/unix-basics-3grep.html#gsc.tab=0)
 
-### task 4 : Understanding the importance of grep with regex using bioinformatics examples [link](https://bioinformaticsworkbook.org/Appendix/Unix/unix-basics-4sed.html#gsc.tab=0)
+### task 4 : Understanding the importance of sed with regex using bioinformatics examples [link](https://bioinformaticsworkbook.org/Appendix/Unix/unix-basics-4sed.html#gsc.tab=0)
 
-## task 5 : Understanding the importance of grep with regex using bioinformatics examples [link](https://bioinformatics.cvr.ac.uk/essential-awk-commands-for-next-generation-sequence-analysis/)
+## task 5 : Understanding the importance of awk with regex using bioinformatics examples [link](https://bioinformatics.cvr.ac.uk/essential-awk-commands-for-next-generation-sequence-analysis/)
 
+
+After understanding above grep, sed, awk examples, visit this cheat sheet
+[Regex cheet sheet](https://cheatography.com/davechild/cheat-sheets/regular-expressions/)
+Check wether you are familier with all the 
+* Anchors
+* Character class
+* Quantifiers
+* Escape characters
+* String replacements
+* Groups and ranges
 
 ## Practice questions 
 
@@ -36,3 +46,6 @@ Now we will apply the knowledge gained in Life science
 * Download Ecoli genome in fasta format [here](https://www.ncbi.nlm.nih.gov/genome/?term=E+coli)
 * search using grep
 
+2. [Regular expressions for biologists](https://carpentries-incubator.github.io/regex-novice-biology/03-tokens-and-wildcards/index.html)
+
+3. 
