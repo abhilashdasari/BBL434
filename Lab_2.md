@@ -10,7 +10,7 @@ To learn bash go through this video (3 hrs) which starts from basic bash [Bash s
 While watching the video mainly focus on 
 
 ### task 2 : Examples for regex patterns
-To learn Regular expressions `grep`, `awk`, `sed` [grep, awk and sed ]([https://www.youtube.com/watch?v=e7BufAVwDiM](https://www.youtube.com/watch?v=KJG1dETacLI) "Bash scripting")
+To learn Regular expressions `grep`, `awk`, `sed` [grep, awk and sed video link](https://www.youtube.com/watch?v=e7BufAVwDiM](https://www.youtube.com/watch?v=KJG1dETacLI) "Bash scripting")
 
 To learn specialised REGEX pattern examples [Video]([https://www.youtube.com/watch?v=KJG1dETacLI])
 
